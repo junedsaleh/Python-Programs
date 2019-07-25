@@ -1,0 +1,6 @@
+Date : 02/07/2019
+	1) Learn Python (Basic knowledge of Python)
+	2) Learn List,Tuple,Dictionary
+	3) Basic Operations On String (lenth,range,slice)
+	4) Conditional Statement (If,For,While)
+Date : /07/2019
